@@ -22,7 +22,7 @@ Contributions are wanted, as l know this will be too much to undertake by any on
 You can use the _raw_ links served by GitHub, example:
 
 ```shell
-$ curl https://raw.githubusercontent.com/wrkout/exercises.json/master/exercises/Barbell_Curl/exercise.json
+$ curl https://raw.githubusercontent.com/erikpr1994/exercises.json/master/exercises/Barbell_Curl/exercise.json
 ```
 
 ## Generate `exercises.json`

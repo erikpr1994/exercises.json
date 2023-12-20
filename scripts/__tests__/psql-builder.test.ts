@@ -17,7 +17,7 @@ describe("Scripts", () => {
     test("it creates an exercises-psql.sql file in the root", async () => {
       await exec("npm run build:psql", { cwd: process.cwd() });
       expect(existsSync(resolve(process.cwd(), "exercises-psql.sql"))).toBe(
-        true
+        true,
       );
     });
   });

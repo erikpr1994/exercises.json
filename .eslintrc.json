@@ -8,8 +8,7 @@
   "plugins": ["@typescript-eslint", "prettier"],
   "extends": [
     "eslint:recommended",
-    "plugin:@typescript-eslint/eslint-recommended",
-    "plugin:prettier/recommended"
+    "plugin:@typescript-eslint/eslint-recommended"
   ],
   "rules": {
     "no-unused-vars": "off",
